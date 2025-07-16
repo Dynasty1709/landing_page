@@ -1,4 +1,10 @@
+body{
+    font:roboto;
+}
+header{
+    background-color: #1F2937;
+}
 .container{
     display: flex;
-    
+    background-color: #1F2937;
 }
